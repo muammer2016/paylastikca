@@ -3,3 +3,4 @@
 # kurs
 # okul
 # paylast-kca
+# paylastikca
