@@ -1,10 +1,9 @@
-# kurs
-# kurs
-# kurs
-# okul
-# paylast-kca
 # paylastikca
-# paylas
-# paylastikca
-# paylastikca
-# paylastikca
+
+<h1>Paylastikca<h1>
+
+Paylastikca adlı projedir.
+<h2>ekran.gifi<h2>
+
+![](ekran.gif)
+
